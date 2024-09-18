@@ -1,0 +1,21 @@
+table{
+    position: absolute;
+    top: 30vh;
+    left:50vh;
+    background: linear-gradient();     
+
+}
+td{
+    padding: 10px;
+}
+#color{
+    background-image: linear-gradient(to bottom right,#E55D87, #5FC3E4);
+    height: 20vh;
+}
+#gap{
+    margin:5px;
+    padding: 10px;
+}
+h4{
+    margin: 10px;
+}
